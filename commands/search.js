@@ -1,15 +1,9 @@
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const { MessageAttachment } = require('discord.js');
-const sqlite3 = require('sqlite3').verbose();
+const fs = require('fs');
 
-const db = new sqlite3.Database('./database/ace.sqlite', sqlite3.OPEN_READWRITE, (err) => {
-	if (err) {
-		return console.error(err.message);
-	}
-
-	console.log('Connected to the SQlite file.');
-});
-
+// Parse the file
+const mobs = JSON.parse(fs.readFileSync('./database/mobs.json', 'utf8'));
 
 module.exports = {
 	data: new SlashCommandBuilder()
@@ -20,37 +14,44 @@ module.exports = {
 				.setDescription('The name of the mob')
 				.setRequired(true)),
 	async execute(interaction) {
+		// Get the query
 		const search = interaction.options.getString('name');
-		const sql = `SELECT * FROM mobs WHERE name_en LIKE '%${search}%' OR name_fr LIKE '%${search}%'`;
 
-		db.serialize(() => {
-			db.all(sql, async (err, rows) => {
-				if (err) {
-					console.error(err.message);
-				}
+		// Filter with query
+		const mobsFilter = mobs.filter(mob => mob.name_en.toLowerCase().includes(search.toLowerCase()) || mob.name_fr.toLowerCase().includes(search.toLowerCase()));
 
-				if (rows.length === 0) {
-					interaction.reply('No mob found with this name.');
-					return;
-				}
+		// If no result
+		if (mobsFilter.length === 0) {
+			interaction.reply('No mob found with this name');
+			return;
+		}
 
-				if (rows.length > 1) {
-					interaction.reply(`Found ${rows.length} mobs with this name. Please specify. (${rows.map(row => row.name_en).join(', ')})`);
-					return;
-				}
+		const embeds = [];
+		const files = [];
 
-				// const url_img = 'https://awakence.com/wp-content/uploads/2021/12/Ghajar-big-icon-190x300.png'
-				const file = new MessageAttachment('./database/ghajar.png');
-				const exampleEmbed = {
+		// For each mob
+		mobsFilter.forEach(mob => {
+			// Create the attachment file
+			files.push(new MessageAttachment(mob.image));
+			// Calculate the filename
+			const filename = mob.image.substring(mob.image.lastIndexOf('/') + 1);
+			// Create the embed
+			embeds.push(
+				{
+					fields: [
+						{
+							name: mob.name_en,
+							value: mob.name_fr,
+						},
+					],
 					image: {
-						url: 'attachment://ghajar.png',
+						url: `attachment://${filename}`,
 					},
-				};
-
-				await interaction.reply(
-					{ content: 'English: ' + rows[0].name_en + '\t=>\t French: ' + rows[0].name_fr, embeds: [exampleEmbed], files: [file] },
-				);
-			});
+				},
+			);
 		});
+
+		// Reply with the embeds
+		await interaction.reply({ embeds, files });
 	},
 };
