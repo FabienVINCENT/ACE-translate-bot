@@ -1,0 +1,1058 @@
+[
+  {
+    "name_en": "brand-the-brilliant",
+    "name_fr": "brummar l'etincelant",
+    "image": "img/brand-the-brilliant-logo.png",
+    "relatedMobs": [
+      "muudos",
+      "mary",
+      "vught",
+      "ghajar"
+    ]
+  },
+  {
+    "name_en": "brand",
+    "name_fr": "brummar",
+    "image": "img/brand-logo.png",
+    "relatedMobs": [
+      "brand-the-brilliant",
+      "muudos",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "rickard",
+    "name_fr": "richard",
+    "image": "img/rickard-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "lordrec",
+    "name_fr": "graldir",
+    "image": "img/lordrec-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "hassel",
+    "name_fr": "hassel",
+    "image": "img/hassel-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "hakrin",
+    "name_fr": "hakrin",
+    "image": "img/hakrin-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "myla",
+    "name_fr": "mia",
+    "image": "img/myla-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "rourke",
+      "vught"
+    ]
+  },
+  {
+    "name_en": "mulago",
+    "name_fr": "mulago",
+    "image": "img/mulago-logo.png",
+    "relatedMobs": [
+      "brand-the-brilliant",
+      "muudos",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "tia",
+    "name_fr": "tia",
+    "image": "img/tia-logo.png",
+    "relatedMobs": [
+      "brand-the-brilliant",
+      "rourke",
+      "mary",
+      "vught"
+    ]
+  },
+  {
+    "name_en": "yolanda",
+    "name_fr": "yolanda",
+    "image": "img/yolanda-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "imogen",
+    "name_fr": "voltra",
+    "image": "img/imogen-logo.png",
+    "relatedMobs": [
+      "brand-the-brilliant",
+      "muudos",
+      "mary",
+      "vught"
+    ]
+  },
+  {
+    "name_en": "evera",
+    "name_fr": "flora",
+    "image": "img/evera-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "nathalia",
+    "name_fr": "nathalie",
+    "image": "img/nathalia-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "harbeg",
+    "name_fr": "harbeg",
+    "image": "img/harbeg-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "mary"
+    ]
+  },
+  {
+    "name_en": "borden",
+    "name_fr": "borden",
+    "image": "img/borden-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "mary"
+    ]
+  },
+  {
+    "name_en": "jonathan",
+    "name_fr": "jonathan",
+    "image": "img/jonathan-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "ghajar",
+    "name_fr": "ghajar",
+    "image": "img/ghajar-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "lightwing-zachary",
+    "name_fr": "zac aile-legere",
+    "image": "img/lightwing-zachary-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "mary"
+    ]
+  },
+  {
+    "name_en": "elson",
+    "name_fr": "nelson",
+    "image": "img/elson-logo.png",
+    "relatedMobs": [
+      "brand-the-brilliant",
+      "muudos",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "zachary",
+    "name_fr": "zac",
+    "image": "img/zachary-logo.png",
+    "relatedMobs": [
+      "brand-the-brilliant",
+      "muudos",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "joseph",
+    "name_fr": "josephe",
+    "image": "img/joseph-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "muudos",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "vught",
+    "name_fr": "vught",
+    "image": "img/vught-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "mary",
+    "name_fr": "marie",
+    "image": "img/mary-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "ciara",
+    "name_fr": "ciara",
+    "image": "img/ciara-logo.png",
+    "relatedMobs": [
+      "brand-the-brilliant",
+      "muudos",
+      "rourke",
+      "vught"
+    ]
+  },
+  {
+    "name_en": "abaddon",
+    "name_fr": "abaddon",
+    "image": "img/abaddon-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "vught"
+    ]
+  },
+  {
+    "name_en": "gangelo",
+    "name_fr": "ganglor",
+    "image": "img/gangelo-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "balberith",
+    "name_fr": "balberuth",
+    "image": "img/balberith-logo.png",
+    "relatedMobs": [
+      "brand-the-brilliant",
+      "muudos",
+      "mary",
+      "vught"
+    ]
+  },
+  {
+    "name_en": "desmond",
+    "name_fr": "fauchard",
+    "image": "img/desmond-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "santis",
+    "name_fr": "santhiya",
+    "image": "img/santis-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "andre",
+    "name_fr": "andre",
+    "image": "img/andre-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "ravyn",
+    "name_fr": "ravyn",
+    "image": "img/ravyn-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "agzul",
+    "name_fr": "agzul",
+    "image": "img/agzul-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "hulens",
+    "name_fr": "hulens",
+    "image": "img/hulens-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "valuk",
+    "name_fr": "valuk",
+    "image": "img/valuk-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "lydia",
+    "name_fr": "lydia",
+    "image": "img/lydia-logo.png",
+    "relatedMobs": [
+      "brand-the-brilliant",
+      "rourke",
+      "vught",
+      "jonathan"
+    ]
+  },
+  {
+    "name_en": "urion",
+    "name_fr": "urion",
+    "image": "img/urion-logo.png",
+    "relatedMobs": [
+      "brand-the-brilliant",
+      "muudos",
+      "mary",
+      "vught"
+    ]
+  },
+  {
+    "name_en": "william",
+    "name_fr": "william",
+    "image": "img/william-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "rourke",
+      "mary",
+      "vught"
+    ]
+  },
+  {
+    "name_en": "thomas",
+    "name_fr": "thomas",
+    "image": "img/thomas-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "mary"
+    ]
+  },
+  {
+    "name_en": "edicris",
+    "name_fr": "ucdalf",
+    "image": "img/edicris-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "jacob",
+    "name_fr": "jacob",
+    "image": "img/jacob-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "vught"
+    ]
+  },
+  {
+    "name_en": "connor",
+    "name_fr": "connor",
+    "image": "img/connor-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "muudos",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "charles",
+    "name_fr": "charles",
+    "image": "img/charles-logo.png",
+    "relatedMobs": [
+      "muudos",
+      "rourke",
+      "rogge",
+      "mary"
+    ]
+  },
+  {
+    "name_en": "dulov",
+    "name_fr": "dulov",
+    "image": "img/dulov-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "celine",
+    "name_fr": "celine",
+    "image": "img/celine-logo.png",
+    "relatedMobs": [
+      "brand-the-brilliant",
+      "muudos",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "vidar",
+    "name_fr": "vidar",
+    "image": "img/vidar-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "muudos",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "abbott",
+    "name_fr": "abbott",
+    "image": "img/abbott-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "barack",
+    "name_fr": "barack",
+    "image": "img/barack-logo.png",
+    "relatedMobs": [
+      "brand-the-brilliant",
+      "muudos",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "blackhorn",
+    "name_fr": "cornoire",
+    "image": "img/blackhorn-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "rourke",
+      "mary"
+    ]
+  },
+  {
+    "name_en": "mytheasia",
+    "name_fr": "natasia",
+    "image": "img/mytheasia-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "rogge",
+      "mary"
+    ]
+  },
+  {
+    "name_en": "siress",
+    "name_fr": "siress",
+    "image": "img/siress-logo.png",
+    "relatedMobs": [
+      "brand-the-brilliant",
+      "muudos",
+      "vught",
+      "ghajar"
+    ]
+  },
+  {
+    "name_en": "helmar",
+    "name_fr": "helmar",
+    "image": "img/helmar-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "kane",
+    "name_fr": "kanours",
+    "image": "img/kane-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "rourke",
+      "rogge",
+      "mary"
+    ]
+  },
+  {
+    "name_en": "earendil",
+    "name_fr": "earendil",
+    "image": "img/earendil-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "antinua",
+    "name_fr": "tinael",
+    "image": "img/antinua-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "lunar-melizza",
+    "name_fr": "centessa lunaire",
+    "image": "img/lunar-melizza-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "melizza",
+    "name_fr": "centessa",
+    "image": "img/melizza-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "vught"
+    ]
+  },
+  {
+    "name_en": "virgil",
+    "name_fr": "virgil",
+    "image": "img/virgil-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "rourke",
+      "vught",
+      "ghajar"
+    ]
+  },
+  {
+    "name_en": "windstrex",
+    "name_fr": "wensafiel",
+    "image": "img/windstrex-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "muudos",
+      "rogge",
+      "mary"
+    ]
+  },
+  {
+    "name_en": "celestial-kane",
+    "name_fr": "kanours le celeste",
+    "image": "img/celestial-kane-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "cece",
+    "name_fr": "cece",
+    "image": "img/cece-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "muudos",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "rodira",
+    "name_fr": "rodria",
+    "image": "img/rodira-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "muudos",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "kaluk",
+    "name_fr": "kaluk",
+    "image": "img/kaluk-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "maluk",
+    "name_fr": "maluk",
+    "image": "img/maluk-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "ztlin",
+    "name_fr": "z'lin",
+    "image": "img/ztlin-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "savannah",
+    "name_fr": "sauvane",
+    "image": "img/savannah-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "mulhex",
+    "name_fr": "ssaztushlee",
+    "image": "img/mulhex-logo.png",
+    "relatedMobs": [
+      "brand-the-brilliant",
+      "muudos",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "hydrissea",
+    "name_fr": "hydrice",
+    "image": "img/hydrissea-logo.png",
+    "relatedMobs": [
+      "brand-the-brilliant",
+      "muudos",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "asrina",
+    "name_fr": "alina",
+    "image": "img/asrina-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "zatlux",
+    "name_fr": "zat'lux",
+    "image": "img/zatlux-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "rujago",
+    "name_fr": "rujago",
+    "image": "img/rujago-logo.png",
+    "relatedMobs": [
+      "muudos",
+      "rourke",
+      "rogge",
+      "mary"
+    ]
+  },
+  {
+    "name_en": "rogge",
+    "name_fr": "rogge",
+    "image": "img/rogge-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "muudos",
+      "rourke",
+      "mary"
+    ]
+  },
+  {
+    "name_en": "rourke",
+    "name_fr": "rourke",
+    "image": "img/rourke-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "muudos",
+      "rogge",
+      "mary"
+    ]
+  },
+  {
+    "name_en": "muudos",
+    "name_fr": "muudos",
+    "image": "img/muudos-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "gubeg",
+    "name_fr": "guilem",
+    "image": "img/gubeg-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "hector",
+    "name_fr": "helsson",
+    "image": "img/hector-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "mary"
+    ]
+  },
+  {
+    "name_en": "crazed-urzag",
+    "name_fr": "urzag le fou",
+    "image": "img/crazed-urzag-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "mary"
+    ]
+  },
+  {
+    "name_en": "corrupt-orakh",
+    "name_fr": "orak corrompu",
+    "image": "img/corrupt-orakh-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "vught"
+    ]
+  },
+  {
+    "name_en": "mognar",
+    "name_fr": "mognar",
+    "image": "img/mognar-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "mary"
+    ]
+  },
+  {
+    "name_en": "bruszakk",
+    "name_fr": "bruszakk",
+    "image": "img/bruszakk-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "muudos",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "urzag",
+    "name_fr": "urzag",
+    "image": "img/urzag-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "orakh",
+    "name_fr": "orak",
+    "image": "img/orakh-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "vught"
+    ]
+  },
+  {
+    "name_en": "okubi",
+    "name_fr": "okubi",
+    "image": "img/okubi-logo.png",
+    "relatedMobs": [
+      "muudos",
+      "rourke",
+      "rogge",
+      "mary"
+    ]
+  },
+  {
+    "name_en": "tuzago",
+    "name_fr": "tozag",
+    "image": "img/tuzago-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "muudos",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "valeria",
+    "name_fr": "valerie",
+    "image": "img/valeria-logo.png",
+    "relatedMobs": [
+      "brand-the-brilliant",
+      "muudos",
+      "vught",
+      "ghajar"
+    ]
+  },
+  {
+    "name_en": "darkened-nicklaus",
+    "name_fr": "nicolas tenebreux",
+    "image": "img/darkened-nicklaus-logo.png",
+    "relatedMobs": [
+      "brand-the-brilliant",
+      "muudos",
+      "vught",
+      "ghajar"
+    ]
+  },
+  {
+    "name_en": "nicklaus",
+    "name_fr": "nicolas",
+    "image": "img/nicklaus-logo.png",
+    "relatedMobs": [
+      "brand-the-brilliant",
+      "muudos",
+      "mary",
+      "vught"
+    ]
+  },
+  {
+    "name_en": "evelyn-firstdawn",
+    "name_fr": "evelin prime-aube",
+    "image": "img/evelyn-firstdawn-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "hugh",
+    "name_fr": "hugh",
+    "image": "img/hugh-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "vance",
+    "name_fr": "vance",
+    "image": "img/vance-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "kyle",
+    "name_fr": "kyle",
+    "image": "img/kyle-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "rourke",
+      "mary",
+      "vught"
+    ]
+  },
+  {
+    "name_en": "scarlett",
+    "name_fr": "scarlett",
+    "image": "img/scarlett-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  },
+  {
+    "name_en": "marian-shadowblood",
+    "name_fr": "marianne ombre-sang",
+    "image": "img/marian-shadowblood-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "vught"
+    ]
+  },
+  {
+    "name_en": "marian",
+    "name_fr": "marianne",
+    "image": "img/marian-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "muudos",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "evelyn",
+    "name_fr": "eveline",
+    "image": "img/evelyn-logo.png",
+    "relatedMobs": [
+      "brand-the-brilliant",
+      "muudos",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "freya",
+    "name_fr": "freyja",
+    "image": "img/freya-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "muudos",
+      "rourke",
+      "rogge"
+    ]
+  },
+  {
+    "name_en": "anna",
+    "name_fr": "anne",
+    "image": "img/anna-logo.png",
+    "relatedMobs": [
+      "okubi",
+      "brand-the-brilliant",
+      "muudos",
+      "rourke"
+    ]
+  }
+]
